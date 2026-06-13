@@ -155,7 +155,7 @@ You can also test with any publicly available dataset from Kaggle.
 **Dipanshu Bisht**
 - GitHub: https://github.com/Dipanshu-Bisht
 - Email: dipanshu.bisht01@gmail.com
-- LinkedIn: your-linkedin-url
+- LinkedIn: https://www.linkedin.com/in/dipanshubisht23
 
 ---
 
